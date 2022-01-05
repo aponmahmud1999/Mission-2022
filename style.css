@@ -1,0 +1,99 @@
+/*font-family: 'Lobster', cursive;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yeseva One', cursive;*/
+body{
+    margin: 0;
+    font-family: 'Yeseva One', cursive;
+}
+.forfont{
+    font-size: 60px;
+}
+.forfont1{
+    font-size: 40px;
+
+}
+.col1{
+    color: orangered;
+}
+.first{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 50px;
+    
+}
+#p1{
+    font-size: 20px;
+   
+}
+.forh1{
+ 
+    margin: 50px;
+}
+.forimg1{
+    width: 40%;
+    margin-top: 50px;
+    
+
+}
+.forimg2{
+    margin-top: 50px;
+    width: 400px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+.button_apon{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    text-decoration: none;
+}
+.sideline{
+    border-left: 5px solid;
+    border-image: blue;
+border-image-slice: 1;
+}
+#h2{
+    text-align: center;
+    font-size: 60px;
+}
+.illim{
+    width: 141px;
+height: 141px;
+left: 188px;
+top: 748px;
+
+}
+.mission{
+    width: 50%;
+    margin-left: 0;
+    border-radius: 5%;
+    background-color: salmon;
+    margin: 0 2%;
+    
+}
+.s2{
+   padding-left: 5%;
+   padding-right: 5%;
+    display: flex;
+    
+   
+}
+.fp{
+    padding: 50px;
+}
+.fbi{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 227px 227px;
+    background-position-x:11px;
+    background-position-y: 115px;
+
+}
